@@ -248,6 +248,7 @@ a {
   }
 }
 .cp {
+  display: flex;
   width: 500px;
   height: 2rem;
   border-radius: 3px;
@@ -274,6 +275,7 @@ a {
   }
 }
 .j {
+  display: flex;
   width: 500px;
   height: 2rem;
   border-radius: 3px;
@@ -300,6 +302,7 @@ a {
   }
 }
 .h {
+  display: flex;
   width: 500px;
   height: 2rem;
   border-radius: 3px;
@@ -325,6 +328,7 @@ a {
   }
 }
 .p {
+  display: flex;
   width: 500px;
   height: 2rem;
   border-radius: 3px;
@@ -351,6 +355,7 @@ a {
   }
 }
 .d {
+  display: flex;
   width: 500px;
   height: 2rem;
   border-radius: 3px;
@@ -506,6 +511,7 @@ label {
   margin-bottom: 0.5rem;
   border-radius: 3px;
   outline: none;
+  width: 100%;
   border: none;
 }
 textarea {
